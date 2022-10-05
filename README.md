@@ -1,3 +1,6 @@
+FIFA-20-Overall-Score-Predictor
+
+
 What this project is about?
 
 This project analyses Fifa 20 players and allows the user to predict an overall Fifa score by inputting variables.
