@@ -1,8 +1,8 @@
 What this project is about?
 
-This project analyses Fifa 19 players and allows the user to predict an overall Fifa score by inputting variables.
+This project analyses Fifa 20 players and allows the user to predict an overall Fifa score by inputting variables.
 
-Data used in the project is the Fifa 19 dataset, found here.
+Data used in the project is the Fifa 20 dataset, found here.
 
 This repositary contains:
 
@@ -12,7 +12,7 @@ Regression model
 
 Streamlit app to deploy the model and predict an overall Fifa score
 
-Results and interesting findings
+Results and interesting findings:
 
 Out of Linear Regression, Lasso Regression, Ridge Regression and Random Forest Regressor, the Random Forest Regressor performed best achieving:
 
