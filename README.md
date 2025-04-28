@@ -1,7 +1,7 @@
 # 🎮 FIFA 20 Overall Score Predictor
 
 Welcome to the FIFA 20 Overall Score Predictor project!  
-This project analyzes FIFA 20 player data and allows users to predict an overall FIFA score based on various player attributes.
+This project analyses FIFA 20 player data and allows users to predict an overall FIFA score based on various player attributes.
 
 ---
 
@@ -63,7 +63,7 @@ README.md
 ---
 
 ## 🚀 Next Steps
-- 🛠️ Implement Hyperparameter Tuning (e.g., GridSearchCV) to optimize model performance
+- 🛠️ Implement Hyperparameter Tuning (e.g., GridSearchCV) to optimise model performance
 - 🎯 Expand the project to predict **player potential ratings** alongside overall score
 - 📊 Perform **player clustering** (e.g., attackers, midfielders, defenders) using K-Means
 - 🌎 Deploy the Streamlit app publicly via Streamlit Cloud for live user interaction
