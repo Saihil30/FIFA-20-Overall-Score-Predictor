@@ -1,23 +1,27 @@
-FIFA-20-Overall-Score-Predictor
+# 🎮 FIFA 20 Overall Score Predictor
 
+Welcome to the FIFA 20 Overall Score Predictor project! This project analyzes FIFA 20 player data and allows users to predict an overall FIFA score based on various player attributes.
 
-What this project is about?
+---
 
-This project analyses Fifa 20 players and allows the user to predict an overall Fifa score by inputting variables.
+## 📖 Overview
+This project involves:
+- Performing **Exploratory Data Analysis (EDA)** on FIFA 20 player statistics.
+- Building **Regression Models** (Linear, Ridge, Lasso, Random Forest).
+- Deploying a simple **Streamlit App** to predict player scores interactively.
 
-Data used in the project is the Fifa 20 dataset, found here.
+---
 
-This repositary contains:
+## 📊 Results
+Out of all tested models, the **Random Forest Regressor** performed best:
+- ✅ **R² Score:** 97%
+- ✅ **Root Mean Squared Error (RMSE):** 1.26
 
-Exploratory data analysis
+---
 
-Regression model
+## 🚀 How to Run Locally
 
-Streamlit app to deploy the model and predict an overall Fifa score
-
-Results and interesting findings:
-
-Out of Linear Regression, Lasso Regression, Ridge Regression and Random Forest Regressor, the Random Forest Regressor performed best achieving:
-
-R^2 Score of 97%
-Root Mean Squared Error of 1.26
+1. Clone the repository:
+```bash
+git clone https://github.com/Saihil30/FIFA-20-Overall-Score-Predictor.git
+cd FIFA-20-Overall-Score-Predictor
